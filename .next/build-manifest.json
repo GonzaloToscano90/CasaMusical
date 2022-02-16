@@ -1,0 +1,92 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/xPoYOZh_4fQFF16U2SIMX/_buildManifest.js",
+    "static/xPoYOZh_4fQFF16U2SIMX/_ssgManifest.js",
+    "static/xPoYOZh_4fQFF16U2SIMX/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/0ef30c6bff6108d3.css",
+      "static/chunks/pages/index-3807398cfa6b43a1.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/css/0b05e40229b79a0a.css",
+      "static/chunks/pages/_app-2d6a6d7ff8bdc41b.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/pages/_error-2280fa386d040b66.js"
+    ],
+    "/amplificadores/amplificadores": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/10650ad9c2bf1ed5.css",
+      "static/chunks/pages/amplificadores/amplificadores-bf4739b504e87dce.js"
+    ],
+    "/blog": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/6c2d0461784397de.css",
+      "static/chunks/pages/blog-fe0b8ee9eb306524.js"
+    ],
+    "/blog/blog1": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/0d2c24ab52937d8f.css",
+      "static/chunks/pages/blog/blog1-1af7bff3cf0f1534.js"
+    ],
+    "/guitarras/guitarra1": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/98586cbe39ff0de3.css",
+      "static/chunks/pages/guitarras/guitarra1-5ff6f2f949cf6520.js"
+    ],
+    "/guitarras/guitarras": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/98586cbe39ff0de3.css",
+      "static/chunks/pages/guitarras/guitarras-de4025c5403b2c89.js"
+    ],
+    "/nosotros": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/9c35f6b176374b42.css",
+      "static/chunks/pages/nosotros-fd8d67d69ec66b5c.js"
+    ],
+    "/tienda": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/61-0b3cf1fb2953d612.js",
+      "static/css/98586cbe39ff0de3.css",
+      "static/chunks/pages/tienda-85dbd5e1168b090f.js"
+    ]
+  },
+  "ampFirstPages": []
+}

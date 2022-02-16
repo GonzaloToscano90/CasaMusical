@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/amplificadores/amplificadores": "pages/amplificadores/amplificadores.html",
+  "/blog": "pages/blog.html",
+  "/blog/blog1": "pages/blog/blog1.html",
+  "/guitarras/guitarra1": "pages/guitarras/guitarra1.html",
+  "/guitarras/guitarras": "pages/guitarras/guitarras.html",
+  "/": "pages/index.html",
+  "/nosotros": "pages/nosotros.html",
+  "/tienda": "pages/tienda.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
