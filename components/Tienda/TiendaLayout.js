@@ -18,7 +18,7 @@ const TiendaLayout = () => {
                 </Link>
               </div>
               <div className={styles.image}>
-                <Image  width='650' height='650'src='/img/article1.png' alt='guitarras' />
+                <Image  width='650' height='650'src='../public/img/article1' alt='guitarras' />
               </div>
           </div>
         </div>
